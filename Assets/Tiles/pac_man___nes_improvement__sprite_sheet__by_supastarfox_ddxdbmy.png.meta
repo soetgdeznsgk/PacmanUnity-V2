@@ -1,0 +1,1551 @@
+fileFormatVersion: 2
+guid: 6ab115f654ce505409efad1733a1a326
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8573293016140105402
+    second: mapa
+  - first:
+      213: -2261039802540638995
+    second: powerUp
+  - first:
+      213: 639831379629200636
+    second: puntoChiquito
+  - first:
+      213: -1719224672263162618
+    second: jugadorDefault
+  - first:
+      213: -4990003423249833353
+    second: jugadorDer1
+  - first:
+      213: -2331375652942966364
+    second: jugadorDer2
+  - first:
+      213: 8916755816156434070
+    second: jugadorIzq1
+  - first:
+      213: -2409592559974754863
+    second: jugadorIzq2
+  - first:
+      213: -5543341603110496101
+    second: jugadorArriba1
+  - first:
+      213: 7393330241547961122
+    second: jugadorArriba2
+  - first:
+      213: 6016950277191254908
+    second: jugadorAbajo1
+  - first:
+      213: -8873213065606894716
+    second: jugadorAbajo2
+  - first:
+      213: -7804531147825803481
+    second: frDer1
+  - first:
+      213: 5369619495871607976
+    second: frIzq2
+  - first:
+      213: 2159741454212915604
+    second: frIzq1
+  - first:
+      213: 3779665949299091880
+    second: frArriba2
+  - first:
+      213: 3938451196161472968
+    second: frArriba1
+  - first:
+      213: 8972303119955181250
+    second: frAbajo2
+  - first:
+      213: 8839717407219769237
+    second: frAbajo1
+  - first:
+      213: -6784685912737310654
+    second: jMorir11
+  - first:
+      213: 1826031905377035254
+    second: fMuertoIzq
+  - first:
+      213: -8529001308113427522
+    second: fMuertoArriba
+  - first:
+      213: -696094114874256650
+    second: fMuertoAbajo
+  - first:
+      213: 8067381684913602099
+    second: faDer1
+  - first:
+      213: 8985473831934489708
+    second: faDer2
+  - first:
+      213: -6016616996897125381
+    second: faIzq1
+  - first:
+      213: 1304376364385422958
+    second: faIzq2
+  - first:
+      213: -3933347726476469477
+    second: faArriba1
+  - first:
+      213: -4106756868904450244
+    second: faArriba2
+  - first:
+      213: 3556776338572440477
+    second: faAbajo1
+  - first:
+      213: 315124189812780209
+    second: faAbajo2
+  - first:
+      213: -3480471351258545781
+    second: fnDer1
+  - first:
+      213: -998390662116003999
+    second: fnDer2
+  - first:
+      213: -6450339241403028262
+    second: fnIzq1
+  - first:
+      213: -4461548759815676976
+    second: fnIzq2
+  - first:
+      213: 7291300786797422114
+    second: fnArriba1
+  - first:
+      213: 4095576831539592907
+    second: fnArriba2
+  - first:
+      213: -4517018339807077501
+    second: fnAbajo1
+  - first:
+      213: 4038114328419480499
+    second: fnAbajo2
+  - first:
+      213: -4893870688623659397
+    second: negro
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mapa
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 100
+        width: 169
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649b1a1dc6b850980800000000000000
+      internalID: -8573293016140105402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerUp
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decbb82774c2f90e0800000000000000
+      internalID: -2261039802540638995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puntoChiquito
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 150
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf452f2ff3321e800800000000000000
+      internalID: 639831379629200636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorDefault
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605baa8f4461428e0800000000000000
+      internalID: -1719224672263162618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorDer1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 214
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772e5312352ffbab0800000000000000
+      internalID: -4990003423249833353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorDer2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a11750223a45afd0800000000000000
+      internalID: -2331375652942966364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorIzq1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 214
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e07eafb2eaebb70800000000000000
+      internalID: 8916755816156434070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorIzq2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5d74155586f8ed0800000000000000
+      internalID: -2409592559974754863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorArriba1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9854fd8e281213b0800000000000000
+      internalID: -5543341603110496101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorArriba2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 214
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238e92eea26a9660800000000000000
+      internalID: 7393330241547961122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorAbajo1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 214
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c734c2fd560808350800000000000000
+      internalID: 6016950277191254908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jugadorAbajo2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 214
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b6528aab30cd480800000000000000
+      internalID: -8873213065606894716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frDer2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636cbeb2848ec5d0800000000000000
+      internalID: -3040347001347873945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frDer1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f0f5f654cb0b390800000000000000
+      internalID: -7804531147825803481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frIzq2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a470766b78b48a40800000000000000
+      internalID: 5369619495871607976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frIzq1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491eb09e861f8fd10800000000000000
+      internalID: 2159741454212915604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frArriba2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ac95c722147430800000000000000
+      internalID: 3779665949299091880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frArriba1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9ba600f7038a630800000000000000
+      internalID: 3938451196161472968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frAbajo2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cebe0a7626048c70800000000000000
+      internalID: 8972303119955181250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frAbajo1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fdb24a52cfcaa70800000000000000
+      internalID: 8839717407219769237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 199
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c97925c41924860800000000000000
+      internalID: 7512726885396618313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 199
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8bd557cdbbf5470800000000000000
+      internalID: 8385627586723428590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 199
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2446a57646ae760800000000000000
+      internalID: 7487907725517800105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 199
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14a96dcdccd9230800000000000000
+      internalID: 3647296522105274847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 199
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe0dbe9aacd0a240800000000000000
+      internalID: 4801079828142690034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 199
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a13e04ff405cda70800000000000000
+      internalID: 8853039271830761888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 199
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e421db04913c9a870800000000000000
+      internalID: 8694695068843184718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 199
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64eaf9c53832730800000000000000
+      internalID: 3973163730110138101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 199
+        width: 2
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1674f60335f251a50800000000000000
+      internalID: 6491146472265828193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jMorir11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 199
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24812b2fb14f7d1a0800000000000000
+      internalID: -6784685912737310654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpDer1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18582f386666345f0800000000000000
+      internalID: -773662120491186815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpDer2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72954f7677cd8d0800000000000000
+      internalID: -2820247978275952652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpIzq1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9532fdf93a0eb1f10800000000000000
+      internalID: 2241632232913445721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpIzq2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba524106613c6d0800000000000000
+      internalID: -2971506727223710911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpArriba1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd4a7ab05e91c5e0800000000000000
+      internalID: -1891056298955747843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpArriba2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d51ef6222cd87200800000000000000
+      internalID: 178134224522319321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpAbajo1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf76db9f984545200800000000000000
+      internalID: 167852037696743420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fpAbajo2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 162
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e0702347654eb0800000000000000
+      internalID: -4736265895105468065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fHuida1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9d8f05e64fc8f0800000000000000
+      internalID: -518117482501924204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fHuida2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c6297b1201434d0800000000000000
+      internalID: -3155879701880083438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fParpadeo1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df40bcd604dfb89a0800000000000000
+      internalID: -6229607206375193347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fParpadeo2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6be1f7e35cdca970800000000000000
+      internalID: 8767624827515300716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fMuertoDer
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d9eef2b60328e0800000000000000
+      internalID: -1719523266874714011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fMuertoIzq
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3278cd75e575910800000000000000
+      internalID: 1826031905377035254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fMuertoArriba
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ae05bf76e2a980800000000000000
+      internalID: -8529001308113427522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fMuertoAbajo
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f21ea0371af656f0800000000000000
+      internalID: -696094114874256650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faDer1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e74cc46e815ff60800000000000000
+      internalID: 8067381684913602099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faDer2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64f503d7d0d2bc70800000000000000
+      internalID: 8985473831934489708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faIzq1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8e5ef7bea08ca0800000000000000
+      internalID: -6016616996897125381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faIzq2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ecb9c74631a1210800000000000000
+      internalID: 1304376364385422958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faArriba1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b97412511f969c0800000000000000
+      internalID: -3933347726476469477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faArriba2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370e02e26ed107c0800000000000000
+      internalID: -4106756868904450244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faAbajo1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ff1e3c353c5130800000000000000
+      internalID: 3556776338572440477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: faAbajo2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 144
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc6ce1f7cb8f5400800000000000000
+      internalID: 315124189812780209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnDer1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b818f411fb1e2bfc0800000000000000
+      internalID: -3480471351258545781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnDer2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f22858bf00522f0800000000000000
+      internalID: -998390662116003999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnIzq1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adce863a2aacb76a0800000000000000
+      internalID: -6450339241403028262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnIzq2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db1a1f8a056512c0800000000000000
+      internalID: -4461548759815676976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnArriba1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22626934f67ef2560800000000000000
+      internalID: 7291300786797422114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnArriba2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcebc32dd6966d830800000000000000
+      internalID: 4095576831539592907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnAbajo1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bdfdb80c35051c0800000000000000
+      internalID: -4517018339807077501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fnAbajo2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 126
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3bbdb36934a0830800000000000000
+      internalID: 4038114328419480499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: negro
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76f3eb998a751cb0800000000000000
+      internalID: -4893870688623659397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
