@@ -8,6 +8,10 @@ public class Jugador : Entidad
     public ScriptGlobalFantasmas Fantasmas;
     public float _temporizador = 5f;
     public SpriteRenderer _sprite;
+
+    [SerializeField] private AudioSource _muerteSFX;
+    [SerializeField] private AudioSource _sirenaSFX;
+
     //public float _diferencial = 0.0003f;
     //public int i = 9;
     //public float comparacion;
@@ -56,7 +60,7 @@ public class Jugador : Entidad
     public void OnCollisionEnter2D(Collision2D colision){
         //base.OnCollisionEnter2D(colision);
 
-        if (colision.gameObject.CompareTag("Enemy")) 
+        if (colision.gameObject.transform.parent.gameObject.CompareTag("GameController")) 
         {
             if (!powerUp){ // el otro caso ya está contemplado dentro del script de los fantasmas
                 this.Morir();
@@ -77,13 +81,15 @@ public class Jugador : Entidad
         }
     }
 
+    [ContextMenu("Matar a Pacman")]
     public void Morir(){
         this._rb.drag = 10;
         this._anim.speed = 1;
         this._anim.Play("jMuerte");
+        _muerteSFX.Play();
         this._vivo = false;
         
-        Invoke("selfDestruct", 0.85f);
+        Invoke("selfDestruct", 1.6f);
     }
 
     private void selfDestruct(){
@@ -91,7 +97,9 @@ public class Jugador : Entidad
     }
     
     IEnumerator ConteoInicial(){
-        yield return new WaitForSecondsRealtime(1f);
+        yield return new WaitForSecondsRealtime(5f);
         Time.timeScale = 1;
+        _sirenaSFX.Play();
+
     }
 }
