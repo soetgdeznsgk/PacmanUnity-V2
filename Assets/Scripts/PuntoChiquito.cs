@@ -24,6 +24,7 @@ public class PuntoChiquito : MonoBehaviour
 
         if (Collider.gameObject.CompareTag("Player")) {
             Sprite.enabled = false;
-            colision.enabled = false;}
+            colision.enabled = false;
+            }
     }
 }

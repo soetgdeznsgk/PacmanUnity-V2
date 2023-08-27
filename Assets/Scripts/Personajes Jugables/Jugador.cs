@@ -11,6 +11,7 @@ public class Jugador : Entidad
 
     [SerializeField] private AudioSource _muerteSFX;
     [SerializeField] private AudioSource _sirenaSFX;
+    [SerializeField] public AudioSource _mordiscoSFX;
 
     //public float _diferencial = 0.0003f;
     //public int i = 9;
