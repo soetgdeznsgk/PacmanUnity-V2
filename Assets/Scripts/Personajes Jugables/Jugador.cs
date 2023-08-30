@@ -11,7 +11,7 @@ public class Jugador : Entidad
 
     [SerializeField] private AudioSource _muerteSFX;
     [SerializeField] private AudioSource _sirenaSFX;
-    [SerializeField] public AudioSource _mordiscoSFX;
+    //[SerializeField] public AudioSource _mordiscoSFX;
 
     //public float _diferencial = 0.0003f;
     //public int i = 9;
@@ -24,6 +24,8 @@ public class Jugador : Entidad
         Fantasmas = GameObject.FindWithTag("GameController").GetComponent<ScriptGlobalFantasmas>();
 
         StartCoroutine(ConteoInicial());
+
+        //_mordiscoSFX.Play();
     }
 
     public override void Update()
@@ -80,7 +82,19 @@ public class Jugador : Entidad
             _temporizador = 5f;
             // reiniciar contador de tiempo
         }
+
+        /*else if (collider.gameObject.transform.parent.gameObject.CompareTag("puntosChiquitos")){ // el resto de la lógica es manejada desde el script de puntoChiquito
+            _mordiscoSFX.mute = false;
+        }*/
     }
+    /*
+    public void OnTriggerExit2D(Collider2D collider){
+        if (collider.gameObject.transform.parent.gameObject.CompareTag("puntosChiquitos")){
+            _mordiscoSFX.mute = true;
+            Debug.Log("Sale del contacto");
+        }
+    }
+    */
 
     [ContextMenu("Matar a Pacman")]
     public void Morir(){

@@ -22,9 +22,10 @@ public class PuntoChiquito : MonoBehaviour
 
     public virtual void OnTriggerEnter2D(Collider2D Collider){
 
-        if (Collider.gameObject.CompareTag("Player")) {
+        if (Collider.gameObject.CompareTag("Player")) { // el sonido es manejado desde el script de jugador
             Sprite.enabled = false;
             colision.enabled = false;
+            LogicaUX.ptsPuntoChiquito();
             }
     }
 }
